@@ -4,6 +4,8 @@
 
 | Образовательная платформа | Название курса | Ссылка на сертификат курса или файл | Месяц и год окончания | Стек |
 | -------- | -------- | -------- |  -------- |  -------- |
-| [karpov.courses](https://karpov.courses/analytics) | Аналитик данных | [сертификат на сайте karpov.courses](https://lab.karpov.courses/certificate/52ebbe4a-9852-497d-953d-14dcb98f9d66/) |  апрель 2023 | Python (pandas, numpy, matplotlib, seaborn), Tableau/Redash, Git, ClickHouse/PostgreSQL, A/B тестирование, теории вероятностей, математическая статистика |
+| [karpov.courses](https://karpov.courses/analytics) | Аналитик данных | [сертификат на сайте karpov.courses](https://lab.karpov.courses/certificate/52ebbe4a-9852-497d-953d-14dcb98f9d66/) |  апрель 2023 | Python (pandas, numpy, matplotlib, seaborn), Tableau/Redash, Git, SQL (ClickHouse/PostgreSQL), A/B тестирование, теория вероятностей, математическая статистика |
 | [Степик](https://stepik.org/course/58852/info) | "Поколение Python": курс для начинающих | [сертификат на сайте Степика](https://stepik.org/cert/1978688) |  март 2023 |  Python |
 | [Степик](https://stepik.org/course/76) | Основы статистики  | сертификаты на сайте Степика: ([ч.1](https://stepik.org/cert/2048070), [ч.2](https://stepik.org/cert/2059955), [ч.3](https://stepik.org/cert/2077631))  |  май 2023 | Центральная предельная теорема, cравнение средних, корреляция и регрессия, непараметрические методы, кластерный анализ, линейная регрессия, bootstrap |
+| [Степик](https://stepik.org/course/118593) | Python: анализ данных с Pandas  | [сертификат на сайте Степика](https://stepik.org/cert/2093533)  |  июнь 2023 | Python, Pandas |
+| [Степик](https://stepik.org/course/102883) | SQL для всех  | [сертификат на сайте Степика](https://stepik.org/cert/2109844)  |  июнь 2023 | Python, Pandas | MS SQL: JOINs, UNION, CASE |

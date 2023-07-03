@@ -10,3 +10,4 @@
 | [Степик](https://stepik.org/course/118593/info) | Python: анализ данных с Pandas  | [сертификат на сайте Степика](https://stepik.org/cert/2093533)  |  июнь 2023 | Python, Pandas |
 | [Степик](https://stepik.org/course/102883/info) | SQL для всех  | [сертификат на сайте Степика](https://stepik.org/cert/2109844)  |  июнь 2023 | MS SQL: JOINs, UNION, CASE |
 | [Степик](https://stepik.org/course/122667/info) | SQL для всех. Level Up  | [сертификат на сайте Степика](https://stepik.org/cert/2118706)  |  июль 2023 | создание таблиц, проектирование БД, оконные функции |
+| [Степик](https://stepik.org/course/51675/info)) | Проектирование баз данных  | [сертификат на сайте Степика](https://stepik.org/cert/2119082)  |  июль 2023 | проектирование БД, нормализация, проектирование |

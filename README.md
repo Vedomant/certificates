@@ -4,7 +4,7 @@
 ## Комплексное обучение
 | Образовательная платформа | Название курса | Ссылка на сертификат | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
-| [karpov.courses]([https://karpov.courses/analytics](https://karpov.courses/ml-start?_gl=1*oir03h*_ga*MTQ2OTI3MjY3LjE3MTgwMDg4NjY.*_ga_DZP7KEXCQQ*czE3NDg2MTE3OTckbzQwNCRnMSR0MTc0ODYxMjExMyRqOCRsMCRoMA..) | Инженер машинного обучения | [сертификат на сайте karpov.courses](https://lab.karpov.courses/certificate/dd846c62-35b9-4a4b-9dea-4521d703b6a0/) |  январь 2025 | Python (функции, классы, ООП), ML (линейная и многоклассовая классификации, решающие деревья, случайный лес, градиентный бустинг)  |
+| [karpov.courses](https://karpov.courses/ml-start?_gl=1*oir03h*_ga*MTQ2OTI3MjY3LjE3MTgwMDg4NjY.*_ga_DZP7KEXCQQ*czE3NDg2MTE3OTckbzQwNCRnMSR0MTc0ODYxMjExMyRqOCRsMCRoMA..) | Инженер машинного обучения | [сертификат на сайте karpov.courses](https://lab.karpov.courses/certificate/dd846c62-35b9-4a4b-9dea-4521d703b6a0/) |  январь 2025 | Python (функции, классы, ООП), ML (линейная и многоклассовая классификации, решающие деревья, случайный лес, градиентный бустинг)  |
 | [karpov.courses](https://karpov.courses/analytics) | Аналитик данных | [сертификат на сайте karpov.courses](https://lab.karpov.courses/certificate/52ebbe4a-9852-497d-953d-14dcb98f9d66/) |  апрель 2023 | Python (pandas, numpy, matplotlib, seaborn), Tableau/Redash, Git, SQL (ClickHouse/PostgreSQL), A/B тестирование, теория вероятностей, математическая статистика |
 
 ## Python

@@ -11,6 +11,7 @@
 ## Python
 | Образовательная платформа | Название курса | Ссылка на сертификат | Месяц и год окончания | Полученные навыки |
 | -------- | -------- | -------- |  -------- |  -------- |
+| [karpov.courses](https://karpov.courses/pythonzero) | Основы Python  | [сертификат на сайте karpov.courses](https://lab.karpov.courses/certificate/8cbe74a7-7c6a-4993-9c5e-449fb5cc8b6c/)  |  ноябрь 2025 | Переменные и основные типы данных, Списки, Словари, Циклы, Условия, Функции |
 | [Степик](https://stepik.org/course/67/info) | Программирование на Python  | [сертификат на сайте Степика](https://stepik.org/cert/2327369)  |  январь 2024 | введение в Python |
 | [Степик](https://stepik.org/course/118593/info) | Python: анализ данных с Pandas  | [сертификат на сайте Степика](https://stepik.org/cert/2093533)  |  июнь 2023 | Python, Pandas |
 | [Степик](https://stepik.org/course/58852/info) | "Поколение Python": курс для начинающих | [сертификат на сайте Степика](https://stepik.org/cert/1978688) |  март 2023 |  введение в Python |
